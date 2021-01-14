@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\DatingApp\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
